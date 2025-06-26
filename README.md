@@ -33,8 +33,7 @@
 
 - [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)  
 - [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)  
-- 시각화 실습:  
-  [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
+- 시각화 실습: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
