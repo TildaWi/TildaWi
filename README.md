@@ -34,9 +34,7 @@
 - [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)  
 - [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)  
 - 시각화 실습:  
-  [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) /  
-  [Power BI 대시보드](https://github.com/your-id/powerbi-report) /  
-  [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
+  [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
@@ -53,8 +51,8 @@
 ### ✍️ 블로그 및 인사이트 공유
 
 - [뉴스레터](https://velog.io/@your-id)  
-- [Today I Learned: 깃허브 블로그](https://github.com/your-id/discussions)  
-- [분석 실습/회고: 티스토리 블로그](https://your-tistory-link.com)
+- [깃허브 블로그](https://github.com/your-id/discussions): Today I Learned  
+- [티스토리 블로그](https://your-tistory-link.com): 분석 실습/회고
 
 <br/>
 
