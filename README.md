@@ -31,28 +31,27 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
-- [SQL & Python 실습 과제 모음](https://github.com/your-id/sql-python-practice)
-- [ML 모델링/튜닝 실습](https://github.com/your-id/ml-study)
-- [Tableau 기반 시각화 대시보드](https://github.com/your-id/tableau-dashboard)
-- [Power BI 리포트 예시](https://github.com/your-id/powerbi-report)
-- [Looker Studio 실습 대시보드](https://github.com/your-id/looker-demo)
+- [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)
+- [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)
+- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
-- [출고 패턴 분석 (무신사 출고 데이터 기반)](https://github.com/your-id/project_fulfillment_pattern)
-- [매니저 성과 프로파일링 분석](https://github.com/your-id/project_manager_performance)
-- [SCM 책 기반 수요예측 실습 & KPI 정의](https://github.com/your-id/practice_scm_study)
+- [패턴 분석](https://github.com/your-id/project_fulfillment_pattern):
+- [ 분석](https://github.com/your-id/project_manager_performance):
+- [ 분석](https://github.com/your-id/project_manager_performance):
 
 ### 📘 직무 기반 개인 학습 (SCM / 데이터 분석)
 
-- [『유통 데이터 분석 실무』 도서 기반 실습](https://github.com/your-id/book-retail-analysis)
+- [도서 기반 실습](https://github.com/your-id/book-retail-analysis): 예시
 - [데이터 분석 부트캠프 실습 모음](https://github.com/your-id/bootcamp-assignments)
 - [직무 관련 도서 모음](https://github.com/your-id/book-logistics-insights)
 
 ### ✍️ 블로그 및 인사이트 공유
 
-- [깃허브 블로그: Today I Learned](https://velog.io/@your-id)
-- [티스토리 블로그: 분석 실습 및 프로젝트 회고](https://velog.io/@your-id)
+- [뉴스레터](https://velog.io/@your-id): 
+- [깃허브 블로그](https://velog.io/@your-id): Today I Learned
+- [티스토리 블로그](https://velog.io/@your-id): 분석 실습 및 프로젝트 회고
 
 <br/>
 
