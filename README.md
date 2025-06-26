@@ -8,12 +8,12 @@
 
 ## 👋 About Me
 
-- 📦 물류 현장 경험 기반의 **도메인형 데이터 분석가**
-- 🔍 실시간 지표 모니터링, 수요예측, 이상탐지 등 **SCM 최적화 문제 해결에 강점**
-- 📚 방송통신대학교 통계학과 재학 중 (이론과 실무를 통합하는 분석력 강화)
-- 🌱 분석 프로젝트 외에도 **강의 실습, 블로그, 도서 기반 개인 실습 등 다양한 결과물 제작**
+- 📦 물류 현장 경험 기반의 **도메인형 데이터 분석가**  
+- 🔍 실시간 지표 모니터링, 수요예측, 이상탐지 등 **SCM 최적화 문제 해결에 강점**  
+- 📚 방송통신대학교 통계학과 재학 중 (이론과 실무를 통합하는 분석력 강화)  
+- 🌱 분석 프로젝트 외에도 **강의 실습, 블로그, 도서 기반 개인 실습 등 다양한 결과물 제작**  
 
-→ 전체 포트폴리오 정리는 [**위이태인 포트폴리오 보기**](https://your-notion-link.com)
+📌 전체 포트폴리오 모음: [**위이태인 포트폴리오 보기**](https://your-notion-link.com)
 
 <br/>
 
@@ -31,39 +31,42 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
-- [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)
-- [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)
-- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
+- [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)  
+- [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)  
+- 시각화 실습:  
+  [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) /  
+  [Power BI 대시보드](https://github.com/your-id/powerbi-report) /  
+  [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
-- [패턴 분석](https://github.com/your-id/project_fulfillment_pattern):
-- [ 분석](https://github.com/your-id/project_manager_performance):
-- [ 분석](https://github.com/your-id/project_manager_performance):
+- [패턴 분석](https://github.com/your-id/project_fulfillment_pattern)  
+- [](https://github.com/your-id/project_manager_performance)  
+- [SCM 지표 및 이상탐지 분석](https://github.com/your-id/project_scm_kpi_anomaly)
 
 ### 📘 직무 기반 개인 학습 (SCM / 데이터 분석)
 
-- [도서 기반 실습](https://github.com/your-id/book-retail-analysis): 예시
-- [데이터 분석 부트캠프 실습 모음](https://github.com/your-id/bootcamp-assignments)
-- [직무 관련 도서 모음](https://github.com/your-id/book-logistics-insights)
+- [도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 『유통 데이터 분석 실무』 기반 실습  
+- [부트캠프 실습 과제 모음](https://github.com/your-id/bootcamp-assignments)  
+- [SCM/커머스 관련 도서 요약 & 실습 정리](https://github.com/your-id/book-logistics-insights)
 
 ### ✍️ 블로그 및 인사이트 공유
 
-- [뉴스레터](https://velog.io/@your-id): 
-- [깃허브 블로그](https://velog.io/@your-id): Today I Learned
-- [티스토리 블로그](https://velog.io/@your-id): 분석 실습 및 프로젝트 회고
+- [뉴스레터](https://velog.io/@your-id)  
+- [Today I Learned: 깃허브 블로그](https://github.com/your-id/discussions)  
+- [분석 실습/회고: 티스토리 블로그](https://your-tistory-link.com)
 
 <br/>
 
 ## 🧱 Tech Stack
 
-### Language
+### Language  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <br/>
 
-### Analysis / ML
+### Analysis / ML  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
@@ -71,7 +74,7 @@
 
 <br/>
 
-### Visualization
+### Visualization  
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=PowerBI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=Looker&logoColor=white"/>
@@ -79,7 +82,7 @@
 
 <br/>
 
-### Workflow & Collaboration
+### Workflow & Collaboration  
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
