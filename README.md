@@ -10,8 +10,8 @@
 
 - 📦 물류 현장 경험 기반의 **도메인형 데이터 분석가**  
 - 🔍 실시간 지표 모니터링, 수요예측, 이상탐지 등 **SCM 최적화 문제 해결에 강점**  
-- 📚 방송통신대학교 통계학과 재학 중 (이론과 실무를 통합하는 분석력 강화)  
-- 🌱 분석 프로젝트 외에도 **강의 실습, 블로그, 도서 기반 개인 실습 등 다양한 결과물 제작**  
+- 📚 방송통신대학교 통계학과 재학 중 
+- 🌱 분석 프로젝트 외에도 **문제 풀이, 스킬 업 강의 수강, 독서 및 회고 등 끊임없이 학습하는 걸 좋아합니다**  
 
 📌 전체 포트폴리오 모음: [**위이태인 포트폴리오 보기**](https://your-notion-link.com)
 
@@ -31,7 +31,7 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
-- [SQL & Python 기반 분석 모음](https://github.com/your-id/sql-python-practice)  
+- [SQL & Python 기반 분석 실습 모음](https://github.com/your-id/sql-python-practice)  
 - [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)  
 - 시각화 실습: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
@@ -39,9 +39,9 @@
 
 - [패턴 분석](https://github.com/your-id/project_fulfillment_pattern)  
 - [](https://github.com/your-id/project_manager_performance)  
-- [SCM 지표 및 이상탐지 분석](https://github.com/your-id/project_scm_kpi_anomaly)
+- [분석](https://github.com/your-id/project_scm_kpi_anomaly)
 
-### 📘 직무 기반 개인 학습 (SCM / 데이터 분석)
+### 📘 직무 기반 개인 학습 
 
 - [도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 『유통 데이터 분석 실무』 기반 실습  
 - [부트캠프 실습 과제 모음](https://github.com/your-id/bootcamp-assignments)  
@@ -49,9 +49,8 @@
 
 ### ✍️ 블로그 및 인사이트 공유
 
-- [뉴스레터](https://velog.io/@your-id)  
-- [깃허브 블로그](https://github.com/your-id/discussions): Today I Learned  
-- [티스토리 블로그](https://your-tistory-link.com): 분석 실습/회고
+- [깃허브 블로그](https://tildawi.github.io/): Today I Learned  
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, kaggle, 독서, 회고
 
 <br/>
 
