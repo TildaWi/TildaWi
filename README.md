@@ -8,10 +8,8 @@
 
 ## 👋 About Me
 
-- 📦 물류 현장 경험 기반의 **도메인형 데이터 분석가**  
-- 🔍 실시간 지표 모니터링, 수요예측, 이상탐지 등 **SCM 최적화 문제 해결에 강점**  
-- 📚 방송통신대학교 통계학과 재학 중 
-- 🌱 분석 프로젝트 외에도 **문제 풀이, 스킬 업 강의 수강, 독서 및 회고 등 끊임없이 학습하는 걸 좋아합니다**  
+- 🎨 **메이커(Maker)**: **아이디어**가 떠오르면 바로 **실행**하는 사람! 데이터 분석의 경계를 넘어, 빠른 실현력을 바탕으로 **AI 기술**을 활용하여 문제를 해결하는 데 큰 집중을 합니다.
+- 🔍 **다이버(Diver)**: 문제 해결을 넘어서 **문제 정의**가 중요하다는 걸 잘 아는 사람. 비즈니스 목표를 정확히 이해하고, 문제의 **본질을 파고드는** 깊이 있는 탐구자입니다. 
 
 📌 전체 포트폴리오 모음: [**위이태인 포트폴리오 보기**](https://your-notion-link.com)
 
@@ -21,13 +19,14 @@
 
 | 프로젝트명 | 설명 | 링크 |
 |------------|------|------|
-| 📦 머신러닝 기반 진열 방식 최적화 | 제품 ABC 분석 + 피킹 동선 재배치로 작업 효율 23% 향상 | [보기](https://github.com/your-id/project_shelving_optimization) |
-| 🚚 배송 지연 예측 및 이상탐지 | 딜리버리 데이터 기반 고위험 주문 사전 탐지 (Rule + ML + 통계) | [보기](https://github.com/your-id/project_delay_anomaly_detection) |
-| 🚲 따릉이 고장률 분석 | 기온·정비주기·지역 기반 이상 패턴 분석 및 개선 제안 | [보기](https://github.com/your-id/project_bike_failure_analysis) |
+| 📦 머신러닝 기반 진열 방식 최적화 | **ABC 분석**과 **피킹 동선 재배치**로 작업 효율 23% 향상 | [보기](https://github.com/your-id/project_shelving_optimization) |
+| 🚚 배송 지연 예측 및 이상탐지 | **딜리버리 데이터** 기반 고위험 주문 사전 탐지 (Rule + ML + 통계) | [보기](https://github.com/your-id/project_delay_anomaly_detection) |
+| 🚲 따릉이 고장률 분석 | **기온, 정비주기, 지역** 기반 이상 패턴 분석 및 개선 제안 | [보기](https://github.com/your-id/project_bike_failure_analysis) |
 
 <br/>
 
 ## 🧪 Studying...
+- 🌱 **끊임없는 학습**을 좋아하며, **문제 풀이**, **기술 스킬 업 강의**, **독서**, **회고** 등 다양한 방법으로 계속해서 성장하는 사람입니다.
 
 ### 📊 데이터 분석 및 시각화 실습
 
@@ -38,8 +37,8 @@
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
 - [패턴 분석](https://github.com/your-id/project_fulfillment_pattern)  
-- [](https://github.com/your-id/project_manager_performance)  
-- [분석](https://github.com/your-id/project_scm_kpi_anomaly)
+- [분석](https://github.com/your-id/project_manager_performance)  
+- [SCM 분석 및 KPI 이상 탐지](https://github.com/your-id/project_scm_kpi_anomaly)
 
 ### 📘 직무 기반 개인 학습 
 
@@ -50,7 +49,7 @@
 ### ✍️ 블로그 및 인사이트 공유
 
 - [깃허브 블로그](https://tildawi.github.io/): Today I Learned  
-- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, kaggle, 독서, 회고
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, Kaggle, 독서, 회고
 
 <br/>
 
