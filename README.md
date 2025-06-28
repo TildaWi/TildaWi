@@ -42,9 +42,9 @@
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
-- [패턴 분석](https://github.com/your-id/project_fulfillment_pattern)  
-- [분석](https://github.com/your-id/project_manager_performance)  
-- [SCM 분석 및 KPI 이상 탐지](https://github.com/your-id/project_scm_kpi_anomaly)
+- [당근 분석](https://github.com/your-id/project_fulfillment_pattern)  
+- [우아한청년들 분석](https://github.com/your-id/project_manager_performance)  
+- [런드리고 분석](https://github.com/your-id/project_scm_kpi_anomaly)
 
 ### 📘 직무 기반 개인 학습 
 
@@ -55,7 +55,7 @@
 ### ✍️ 블로그 및 인사이트 공유
 
 - [깃허브 블로그](https://tildawi.github.io/): Today I Learned  
-- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, Kaggle, 독서, 회고
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, Kaggle, 스킬 업, 독서, 회고
 
 <br/>
 
