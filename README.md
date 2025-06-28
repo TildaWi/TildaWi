@@ -43,9 +43,9 @@
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
-- [당근(중고거래 중심) 분석](https://github.com/your-id/project_fulfillment_pattern)  
-- [우아한청년들(B마트 중심) 분석](https://github.com/your-id/project_manager_performance)  
-- [의식주컴퍼니(런드리고 중심) 분석](https://github.com/your-id/project_scm_kpi_anomaly)
+- [당근(중고거래 중심) 분석](https://github.com/your-id/project_fulfillment_pattern): 비전『당신 근처의 지역 생활 커뮤니티』  
+- [우아한청년들(B마트 중심) 분석](https://github.com/your-id/project_manager_performance): 비전『언제나 믿을 수 읻는 물류 경험』
+- [의식주컴퍼니(런드리고 중심) 분석](https://github.com/your-id/project_scm_kpi_anomaly): 비전 『삶은 계속된다(Life Goes ​On)』
 
 ### 📘 직무 기반 개인 학습 
 
