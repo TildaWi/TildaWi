@@ -36,21 +36,21 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
+- [부트캠프 실습 과제 모음](https://github.com/your-id/bootcamp-assignments)  
 - [SQL & Python 기반 분석 실습 모음](https://github.com/your-id/sql-python-practice)  
 - [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study)  
 - 시각화 실습: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
-- [당근 분석](https://github.com/your-id/project_fulfillment_pattern)  
-- [우아한청년들 분석](https://github.com/your-id/project_manager_performance)  
-- [런드리고 분석](https://github.com/your-id/project_scm_kpi_anomaly)
+- [당근(중고거래 중심) 분석](https://github.com/your-id/project_fulfillment_pattern)  
+- [우아한청년들(B마트 중심) 분석](https://github.com/your-id/project_manager_performance)  
+- [의식주컴퍼니(런드리고 중심) 분석](https://github.com/your-id/project_scm_kpi_anomaly)
 
 ### 📘 직무 기반 개인 학습 
 
-- [도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 『유통 데이터 분석 실무』 기반 실습  
-- [부트캠프 실습 과제 모음](https://github.com/your-id/bootcamp-assignments)  
-- [SCM/커머스 관련 도서 요약 & 실습 정리](https://github.com/your-id/book-logistics-insights)
+- [도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 최신 업데이트 『   』
+- [IT/물류/커머스 관련 도서 요약](https://github.com/your-id/book-logistics-insights): 최신 업데이트 『   』
 
 ### ✍️ 블로그 및 인사이트 공유
 
