@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### 📈 Data Analysis & Machine Learning  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### 📊 Visualization & BI Tools  
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=Looker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redash-FF5C57?style=flat-square&logo=redash&logoColor=white"/>
 
-<br/>
+<br/><br/>
 
 ### ☁️ Cloud & Data Platform  
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
