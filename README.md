@@ -36,8 +36,9 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
-- [부트캠프 위클리 페이퍼 & 실습 과제 모음](https://github.com/your-id/bootcamp-assignments): 최신 업데이트 『데이터 엔지니어링 개론, Airflow 기초, BigQuery 기초』  
-- [SQL & Python 기반 분석 실습 모음](https://github.com/your-id/sql-python-practice): 최신 업데이트 『Python으로 다양한 문서에서 텍스트 추출하는법』  
+- [SQL & Python 기반 실습 모음](https://github.com/your-id/sql-python-practice): 최신 업데이트 『Python으로 다양한 문서에서 텍스트 추출하는법』
+- [kaggle](https://github.com/your-id/sql-python-practice): 최신 업데이트 『』
+- [공공데이터](https://github.com/your-id/sql-python-practice): 최신 업데이트 『』    
 
 - [크롤링 & 머신러닝 실습 모음](https://github.com/your-id/ml-study): 최신 업데이트 『클러스터링?』
 
@@ -56,8 +57,8 @@
 
 ### ✍️ 블로그 및 인사이트 공유
 
-- [깃허브 블로그](https://tildawi.github.io/): Today I Learned, 이론 정리
-- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, kaggle, 회고
+- [깃허브 블로그](https://tildawi.github.io/): Today I Learned, 위클리 페이퍼, 이론 정리
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, 회고
 
 <br/>
 
