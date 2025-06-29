@@ -41,7 +41,6 @@
 - [크롤링 & 머신러닝 실습](https://github.com/your-id/ml-study): 군집화, 분류기 실험 등
 - [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio](https://github.com/your-id/looker-demo)
 
-<br/>
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
@@ -49,14 +48,12 @@
 - [🛵 퀵커머스 물류 분석 (우아한청년들)](https://github.com/your-id/project_manager_performance): 비전『언제나 믿을 수 읻는 물류 경험』
 - [🧺 스마트팩토리 분석 (런드리고)](https://github.com/your-id/project_scm_kpi_anomaly): 비전 『삶은 계속된다(Life Goes ​On)』
 
-<br/>
 
 ### 📘 직무 기반 학습 & 인사이트 정리
 
 - [데이터 분석 도서 기반 학습](https://github.com/your-id/book-retail-analysis): 『데이터로 말해요』 외 분석 기반 실습
 - [현업 중심 도서 인사이트 정리](https://github.com/your-id/book-logistics-insights): 『전략적 사용자 행동 분석』 등
- 
-<br/> 
+
 
 ### ✍️ 블로그 & 커뮤니티 공유
 
@@ -73,7 +70,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 📈 Data Analysis & Machine Learning  
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -81,7 +78,7 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### 📊 Visualization & BI Tools  
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
@@ -89,7 +86,7 @@
 <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=Looker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redash-FF5C57?style=flat-square&logo=redash&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 ### ☁️ Cloud & Data Platform  
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
@@ -104,5 +101,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
+<br/>
 
 </div>
