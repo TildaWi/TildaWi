@@ -36,9 +36,11 @@
 
 ### 📊 데이터 분석 및 시각화 실습
 
-- [부트캠프 실습 과제 모음](https://github.com/your-id/bootcamp-assignments): 최신 업데이트 『데이터 엔지니어링 개론, Airflow 기초, BigQuery 기초』  
+- [부트캠프 위클리 페이퍼 & 실습 과제 모음](https://github.com/your-id/bootcamp-assignments): 최신 업데이트 『데이터 엔지니어링 개론, Airflow 기초, BigQuery 기초』  
 - [SQL & Python 기반 분석 실습 모음](https://github.com/your-id/sql-python-practice): 최신 업데이트 『Python으로 다양한 문서에서 텍스트 추출하는법』  
-- [ML 모델링/튜닝 모음](https://github.com/your-id/ml-study): 최신 업데이트 『』
+
+- [크롤링 & 머신러닝 실습 모음](https://github.com/your-id/ml-study): 최신 업데이트 『클러스터링?』
+
 - 시각화 실습: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
@@ -49,13 +51,13 @@
 
 ### 📘 직무 기반 개인 학습 
 
-- [기술 도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 최신 업데이트 『   』
+- [기술 도서 기반 실습 정리](https://github.com/your-id/book-retail-analysis): 최신 업데이트 『데이터로 말해요! 데이터 중심의 사고·기획·보고의 기술, 김철수 지음』
 - [현업 인사이트 도서 요약 정리](https://github.com/your-id/book-logistics-insights): 최신 업데이트 『전략적 사용자 행동 분석 : PM, PO, 기획자, 마케터를 위한 프로덕트 분석의 기술 with 믹스패널, 오세규 지음』
 
 ### ✍️ 블로그 및 인사이트 공유
 
-- [깃허브 블로그](https://tildawi.github.io/): Today I Learned  
-- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, Kaggle, 스킬 업, 독서, 회고
+- [깃허브 블로그](https://tildawi.github.io/): Today I Learned, 이론 정리
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, kaggle, 회고
 
 <br/>
 
