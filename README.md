@@ -29,8 +29,9 @@
 | 🚚 배송 지연 예측 및 이상탐지 | **딜리버리 데이터** 기반 고위험 주문 사전 탐지 (Rule + ML + 통계) | [보기](https://github.com/TildaWi/project_delay_anomaly_detection) |
 | 🧭 채용 플랫폼 이탈 개선 프로젝트 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안 + A/B 테스트 제안** | [보기](https://github.com/TildaWi/project_job_funnel_analysis) |
 
-
 <br/>
+
+---
 
 ## 🧪 Studying & Practice...
 
@@ -40,6 +41,7 @@
 - [크롤링 & 머신러닝 실습](https://github.com/your-id/ml-study): 군집화, 분류기 실험 등
 - [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio](https://github.com/your-id/looker-demo)
 
+<br/>
 
 ### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
 
@@ -47,12 +49,14 @@
 - [🛵 퀵커머스 물류 분석 (우아한청년들)](https://github.com/your-id/project_manager_performance): 비전『언제나 믿을 수 읻는 물류 경험』
 - [🧺 스마트팩토리 분석 (런드리고)](https://github.com/your-id/project_scm_kpi_anomaly): 비전 『삶은 계속된다(Life Goes ​On)』
 
+<br/>
 
 ### 📘 직무 기반 학습 & 인사이트 정리
 
 - [데이터 분석 도서 기반 학습](https://github.com/your-id/book-retail-analysis): 『데이터로 말해요』 외 분석 기반 실습
 - [현업 중심 도서 인사이트 정리](https://github.com/your-id/book-logistics-insights): 『전략적 사용자 행동 분석』 등
-  
+ 
+<br/> 
 
 ### ✍️ 블로그 & 커뮤니티 공유
 
