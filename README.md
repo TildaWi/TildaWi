@@ -25,9 +25,9 @@
 
 | 프로젝트명 | 분석 카테고리 | 설명 | 링크 |
 |------------|------------------|------|------|
-| 📦 머신러닝 기반 진열 방식 최적화 | 데이터 활용 모델링 | **ABC 분석**과 **피킹 동선 재배치**로 작업 효율 23% 향상 | [보기](https://github.com/TildaWi/fulfillment_layout_project) |
-| 🧭 채용 플랫폼 이탈 개선 프로젝트 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안 + A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
-| 🚲 따릉이 고장률 분석 프로젝트 | 비즈니스<br/>데이터 분석 | **고장 신고 패턴 분석**과 **정비 등급 전략 + 운영 대시보드 설계** | [보기](https://github.com/TildaWi/ttareungi_project) |
+| 실시간 대기오염 모니터링 자동화 프로젝트 | 데이터<br/>시각화 | 설명 삽입 필요 | [보기](https://github.com/TildaWi/ttareungi_project) |
+| 머신러닝 기반 진열 방식 최적화 | 데이터 활용<br/> 모델링 | **ABC 분석**과 **피킹 동선 재배치**로 작업 효율 23% 향상 | [보기](https://github.com/TildaWi/fulfillment_layout_project) |
+| 채용 플랫폼 이탈 개선 프로젝트 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안 + A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
 
 <br/>
 
