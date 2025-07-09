@@ -37,24 +37,21 @@
 
 ### 📊 분석 프로젝트 및 대시보드 모음
 
-- **비즈니스 데이터 분석**  
+- **비즈니스 데이터 분석**  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard) 
   운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
-  👉 운영 효율화 중심 프로젝트  
 
-- **프로덕트 데이터 분석**  
+- **프로덕트 데이터 분석**  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard) 
   유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석  
-  👉 제품 개선 중심 프로젝트  
 
-- **마케팅 데이터 분석**  
+- **마케팅 데이터 분석**  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard) 
   고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측  
-  👉 수익·고객 중심 프로젝트  
 
-- **데이터 활용 모델링**  
+- **데이터 활용 모델링 및 자동화**  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard)   
   예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 데이터 파이프라인 구축  
-  👉 데이터 활용 및 자동화 중심 프로젝트  
 
-- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
+[Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
+<br/>
 
 ### 🏪 도메인 중심 분석
 
@@ -62,19 +59,20 @@
 - [🛵 물류 중심 분석 모음](https://github.com/your-id/logistics-domain-analysis)
 - [📦 커머스 중심 분석 모음](https://github.com/your-id/commerce-domain-analysis)
 
+<br/>
 
 ### 📘 직무 기반 학습 & 스터디 정리
 
 - [기술 도서 기반 학습](https://github.com/TildaWi/learning_technical_books)
 - [서울 우먼잇츠, 구글 스터디 잼 X 잇츠 스터디](https://github.com/TildaWi/seoul_women_its_study_4th)
 
+<br/>
 
 ### ✍️ 블로그 & 커뮤니티 공유
 
 - [깃허브 블로그](https://tildawi.github.io/): Today I Learned, 위클리 페이퍼, 이론 학습 기록
 - [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, 스킬 업, 회고 기록
   
-
 <br/>
 
 ---
