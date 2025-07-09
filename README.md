@@ -43,7 +43,7 @@
 
 - **3) 마케팅 데이터 분석**: 고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측([바로가기](https://github.com/your-id/tableau-dashboard))  
 
-- **4) 데이터 활용 모델링 및 자동화**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 데이터 파이프라인 구축([바로가기](https://github.com/your-id/tableau-dashboard))  
+- **4) 데이터 활용 모델링 및 자동화**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 파이프라인 구축([바로가기](https://github.com/your-id/tableau-dashboard))  
 
 - **5) 데이터 시각화**: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
