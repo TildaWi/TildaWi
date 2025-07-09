@@ -37,15 +37,15 @@
 
 ### 📊 분석 프로젝트 및 대시보드 모음
 
-- **1) [비즈니스 데이터 분석](https://github.com/your-id/tableau-dashboard)**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석
+- **1) [비즈니스 데이터 분석](https://github.com/TildaWi/business-data-analysis)**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
 
-- **2) [프로덕트 데이터 분석](https://github.com/your-id/tableau-dashboard)**: 유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석  
+- **2) [프로덕트 데이터 분석](https://github.com/TildaWi/product-data-analysis)**: 유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석  
 
-- **3) [마케팅 데이터 분석](https://github.com/your-id/tableau-dashboard)**: 고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측
+- **3) [마케팅 데이터 분석](https://github.com/TildaWi/marketing-data-analysis)**: 고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측 
 
-- **4) [데이터 활용 모델링 및 자동화](https://github.com/your-id/tableau-dashboard)**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 파이프라인 구축  
+- **4) [데이터 활용 모델링 및 자동화](https://github.com/TildaWi/data-modeling-automation)**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 파이프라인 구축  
 
-- **5) [데이터 시각화](https://github.com/your-id/tableau-dashboard)**: Tableau 대시보드 / Redash 대시보드 / Power BI 대시보드 / Looker Studio 대시보드
+- **5) [데이터 시각화](https://github.com/TildaWi/data-visualization)**: Tableau / Redash / Power BI / Looker Studio 대시보드
 
 <br/>
 
