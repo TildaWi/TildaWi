@@ -37,19 +37,15 @@
 
 ### 📊 분석 프로젝트 및 대시보드 모음
 
-- **비즈니스 데이터 분석**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
-  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard)  
+- **비즈니스 데이터 분석**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석(👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard))
 
-- **프로덕트 데이터 분석**: 유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석  
-  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard)  
+- **프로덕트 데이터 분석**: 유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석(👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard))  
 
-- **마케팅 데이터 분석**: 고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측  
-  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard)  
+- **마케팅 데이터 분석**: 고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측(👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard))  
 
-- **데이터 활용 모델링 및 자동화**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 데이터 파이프라인 구축  
-  👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard)  
+- **데이터 활용 모델링 및 자동화**: 예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 데이터 파이프라인 구축(👉 [프로젝트 바로가기](https://github.com/your-id/tableau-dashboard))  
 
-- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
+- **데이터 시각화**: [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 <br/>
 
