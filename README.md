@@ -33,32 +33,47 @@
 
 ---
 
-## 🧪 Studying & Practice...
+## 🧪 Studying & Practice
 
-### 📊 실전 데이터 분석 & 시각화
+### 📊 분석 프로젝트 및 대시보드 모음
 
-- [SQL & Python 실습 모음](https://github.com/your-id/sql-python-practice): 실무 예제 중심 텍스트 추출, 정규표현식, DB 조인 등
-- [크롤링 & 머신러닝 실습](https://github.com/your-id/ml-study): 군집화, 분류기 실험 등
-- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio](https://github.com/your-id/looker-demo)
+- **비즈니스 데이터 분석**  
+  운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
+  👉 운영 효율화 중심 프로젝트  
+
+- **프로덕트 데이터 분석**  
+  유저 퍼널·이탈 분석, A/B 테스트 설계 및 검증, 유저 여정(behavior flow) 분석  
+  👉 제품 개선 중심 프로젝트  
+
+- **마케팅 데이터 분석**  
+  고객 세그먼트 분석, 캠페인 성과·채널별 전환 분석, CLV(Customer Lifetime Value) 예측  
+  👉 수익·고객 중심 프로젝트  
+
+- **데이터 활용 모델링**  
+  예측 모델링, 추천 시스템 개발, 이상탐지·패턴 인식, Airflow 기반 데이터 파이프라인 구축  
+  👉 데이터 활용 및 자동화 중심 프로젝트  
+
+- [Tableau 대시보드](https://github.com/your-id/tableau-dashboard) / [Redash 대시보드](https://github.com/your-id/redash-dashboard) / [Power BI 대시보드](https://github.com/your-id/powerbi-report) / [Looker Studio 대시보드](https://github.com/your-id/looker-demo)
 
 
-### 🏪 도메인 중심 분석 (IT / 물류 / 커머스)
+### 🏪 도메인 중심 분석
 
-- [📦 중고거래 분석 (당근)](https://github.com/your-id/project_fulfillment_pattern): 비전『당신 근처의 지역 생활 커뮤니티』  
-- [🛵 퀵커머스 물류 분석 (우아한청년들)](https://github.com/your-id/project_manager_performance): 비전『언제나 믿을 수 읻는 물류 경험』
-- [🧺 스마트팩토리 분석 (런드리고)](https://github.com/your-id/project_scm_kpi_anomaly): 비전 『삶은 계속된다(Life Goes ​On)』
+- [🧺 IT 중심 분석 모음](https://github.com/your-id/it-domain-analysis) 
+- [🛵 물류 중심 분석 모음](https://github.com/your-id/logistics-domain-analysis)
+- [📦 커머스 중심 분석 모음](https://github.com/your-id/commerce-domain-analysis)
 
 
-### 📘 직무 기반 학습 & 인사이트 정리
+### 📘 직무 기반 학습 & 스터디 정리
 
-- [데이터 분석 도서 기반 학습](https://github.com/your-id/book-retail-analysis): 『데이터로 말해요』 외 분석 기반 실습
-- [현업 중심 도서 인사이트 정리](https://github.com/your-id/book-logistics-insights): 『전략적 사용자 행동 분석』 등
+- [기술 도서 기반 학습](https://github.com/TildaWi/learning_technical_books)
+- [서울 우먼잇츠, 구글 스터디 잼 X 잇츠 스터디](https://github.com/TildaWi/seoul_women_its_study_4th)
 
 
 ### ✍️ 블로그 & 커뮤니티 공유
 
 - [깃허브 블로그](https://tildawi.github.io/): Today I Learned, 위클리 페이퍼, 이론 학습 기록
-- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, 회고 기록
+- [티스토리 블로그](https://tildawi.tistory.com/): 문제 풀이, 트러블 슈팅, 스킬 업, 회고 기록
+  
 
 <br/>
 
