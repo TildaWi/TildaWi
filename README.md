@@ -60,6 +60,17 @@
 ### 📘 직무 기반 학습 & 스터디 정리
 
 - [기술 도서 기반 학습](https://github.com/TildaWi/learning_technical_books)
+- [방송통신대학교 데이터통계학과 학습 정리](https://github.com/TildaWi/learning_technical_books)
+- [Cosera 학습 정리](https://github.com/TildaWi/learning_technical_books)
+- [서울 우먼잇츠, 구글 스터디 잼 X 잇츠 스터디](https://github.com/TildaWi/seoul_women_its_study_4th)
+
+<br/>
+
+### 📘 공모전/대회 참가 및 연습
+
+- [Kaggle 대회 참가 및 연습](https://github.com/TildaWi/kaggle-pratice-contest)
+- [Dacon 대회 참가 및 연습](https://github.com/TildaWi/dacon-pratice-contest)
+- [공모전 대회 참가 및 연습](https://github.com/TildaWi/contest)
 - [서울 우먼잇츠, 구글 스터디 잼 X 잇츠 스터디](https://github.com/TildaWi/seoul_women_its_study_4th)
 
 <br/>
