@@ -24,7 +24,7 @@
 |:----------:|:-------------:|:-----:|:----:|
 | 구독형 강의 서비스<br/>플랫폼 리텐션 분석 | 프로덕트<br/>데이터 분석 | 설명 삽입 필요 | [보기]() |
 | 공공데이터 기반 실시간 대기오염<br/>모니터링 자동화 | 데이터 활용<br/>자동화 | 설명 삽입 필요 | [보기](https://github.com/TildaWi/air-quality-data-pipeline-project) |
-| 채용 플랫폼 로그 분석 기반<br/>지원 미완료 유저 이탈 개선을 위한<br/>UI/UX 제안 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안** <br/> A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
+| 채용 플랫폼 로그 분석 기반<br/>지원 미완료 유저 이탈 개선을 위한<br/>UI/UX 제안 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안** <br/> **A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
 
 ---
 
