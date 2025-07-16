@@ -30,7 +30,7 @@
 
 ## ✍️ Studying & Practice
 
-### 분석 프로젝트 및 대시보드 모음
+### 분석 프로젝트 및 대시보드
 
 - **1) [비즈니스 데이터 분석](https://github.com/TildaWi/business-data-analysis)**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-### 직무 기반 학습 & 연습 정리
+### 직무 기반 학습 & 연습
 
 - [기술 도서 기반 학습](https://github.com/TildaWi/learning_technical_books)
 - [방송통신대학교 데이터통계학과 학습 정리](https://github.com/TildaWi/learning_technical_books)
