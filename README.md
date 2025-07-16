@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=안녕하세요,%20데이터%20분석가%20위이태인입니다!&fontSize=35&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=안녕하세요 ,%20데이터%20분석가%20위이태인입니다!&fontSize=35&fontAlignY=40" />
 </div>
 
 <!-- Body -->
@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-- 🔍 **파인더(Finder)**: 핵심 가치를 **발견**하는 사람  
+<!-- - 🔍 **파인더(Finder)**: 핵심 가치를 **발견**하는 사람  
   ↳ **도메인 분석**을 통해 비즈니스 목표를 정확히 이해하고, 문제의 **본질을 파악**하는 데 집중합니다.
 
 - 🏄‍♂️ **다이버(Diver)**: 문제 해결을 위해 **깊이 파고드는** 사람  
@@ -16,6 +16,12 @@
 
 - 🛠️💻 **메이커(Maker)**: **아이디어**가 떠오르면 바로 **실행**하는 사람  
   ↳ **AI/자동화 기술**을 활용해, 다양한 실험과 실행을 통해 문제 해결을 실현합니다.
+  -->
+
+사용자의 여정을 따라가 보는 것을 좋아하는 데이터 분석가, 위이태인입니다.
+
+저는 사용자 행동 데이터를 분석해 제품의 **핵심 이벤트(Critical Event)**를 찾아내고, 의사결정을 지원하는 인사이트를 도출하는 데 집중합니다.
+데이터 속에서 숨어 있는 패턴을 발견해 **제품과 비즈니스가 함께 성장**할 수 있는 연결고리를 만들고, 그 여정에서 저도 함께 성장하는 것이 목표입니다.
 
 📌 전체 포트폴리오 모음: [**위이태인 포트폴리오 보기**](https://github.com/TildaWi/Portfolio_wileetaein)
 
@@ -23,11 +29,36 @@
 
 ## 📁 주요 프로젝트
 
-| 프로젝트명 | 분석 카테고리 | 설명 | 링크 |
-|------------|------------------|------|------|
-| 실시간 대기오염 모니터링 자동화 프로젝트 | 데이터 활용<br/>자동화 | 설명 삽입 필요 | [보기](https://github.com/TildaWi/ttareungi_project) |
-| 머신러닝 기반 진열 방식 최적화 | 데이터 활용<br/> 모델링 | **ABC 분석**과 **피킹 동선 재배치**로 작업 효율 23% 향상 | [보기](https://github.com/TildaWi/fulfillment_layout_project) |
-| 채용 플랫폼 이탈 개선 프로젝트 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안 + A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;">프로젝트명</th>
+      <th style="text-align:center;">분석 카테고리</th>
+      <th style="text-align:center;">설명</th>
+      <th style="text-align:center;">링크</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center;">구독형 강의 서비스<br/>플랫폼 리텐션 분석</td>
+      <td style="text-align:center;">프로덕트<br/>데이터 분석</td>
+      <td style="text-align:center;">설명 삽입 필요</td>
+      <td style="text-align:center;"><a href="#">보기</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">공공데이터 기반<br/>실시간 대기오염<br/>모니터링 자동화</td>
+      <td style="text-align:center;">데이터 활용<br/>자동화</td>
+      <td style="text-align:center;">설명 삽입 필요</td>
+      <td style="text-align:center;"><a href="https://github.com/TildaWi/air-quality-data-pipeline-project">보기</a></td>
+    </tr>
+    <tr>
+      <td style="text-align:center;">채용 플랫폼<br/>로그 분석 기반<br/>지원 미완료 유저<br/>이탈 개선을 위한 UI/UX 제안</td>
+      <td style="text-align:center;">프로덕트<br/>데이터 분석</td>
+      <td style="text-align:center;"><b>전환 퍼널 분석</b> 및 <b>이탈 구간 UX 개선안 + A/B 테스트 제안</b></td>
+      <td style="text-align:center;"><a href="https://github.com/TildaWi/job_funnel_dropoff_project">보기</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
