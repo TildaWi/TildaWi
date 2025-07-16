@@ -69,19 +69,11 @@
 
 <br/>
 
-### 🏪 도메인 중심 분석
-
-- [🧺 IT 중심 분석 모음](https://github.com/your-id/it-domain-analysis) 
-- [🛵 물류 중심 분석 모음](https://github.com/your-id/logistics-domain-analysis)
-- [📦 커머스 중심 분석 모음](https://github.com/your-id/commerce-domain-analysis)
-
-<br/>
-
 ### 📘 직무 기반 학습 & 연습 정리
 
 - [기술 도서 기반 학습](https://github.com/TildaWi/learning_technical_books)
 - [방송통신대학교 데이터통계학과 학습 정리](https://github.com/TildaWi/learning_technical_books)
-- [Cosera 학습 정리](https://github.com/TildaWi/learning_technical_books)
+<!--- [Cosera 학습 정리](https://github.com/TildaWi/learning_technical_books)-->
 - [Kaggle 필사 및 연습](https://github.com/TildaWi/kaggle-pratice-contest)
 - [Dacon 필사 참가 및 연습](https://github.com/TildaWi/dacon-pratice-contest)
 
