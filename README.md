@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=안녕하세요 ,%20데이터%20분석가%20위이태인입니다!&fontSize=35&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=안녕하세요,%20데이터%20분석가%20위이태인입니다!&fontSize=35&fontAlignY=40" />
 </div>
 
 <!-- Body -->
@@ -8,20 +8,11 @@
 
 ## 👋 About Me
 
-<!-- - 🔍 **파인더(Finder)**: 핵심 가치를 **발견**하는 사람  
-  ↳ **도메인 분석**을 통해 비즈니스 목표를 정확히 이해하고, 문제의 **본질을 파악**하는 데 집중합니다.
-
-- 🏄‍♂️ **다이버(Diver)**: 문제 해결을 위해 **깊이 파고드는** 사람  
-  ↳ **비교 분석**으로 문제를 **다각도에서 접근**하고, **정량 근거 기반 인사이트**를 도출합니다.
-
-- 🛠️💻 **메이커(Maker)**: **아이디어**가 떠오르면 바로 **실행**하는 사람  
-  ↳ **AI/자동화 기술**을 활용해, 다양한 실험과 실행을 통해 문제 해결을 실현합니다.
-  -->
-
-사용자의 여정을 따라가 보는 것을 좋아하는 데이터 분석가, 위이태인입니다.
-
-저는 사용자 행동 데이터를 분석해 제품의 **핵심 이벤트(Critical Event)**를 찾아내고, 의사결정을 지원하는 인사이트를 도출하는 데 집중합니다.
-데이터 속에서 숨어 있는 패턴을 발견해 **제품과 비즈니스가 함께 성장**할 수 있는 연결고리를 만들고, 그 여정에서 저도 함께 성장하는 것이 목표입니다.
+<div style="background-color:#f5f5f5; border-radius:10px; padding:15px; line-height:1.6;">
+사용자의 여정을 따라가 보는 것을 좋아하는 데이터 분석가, 위이태인입니다.  
+저는 사용자 행동 데이터를 분석해 제품의 **핵심 이벤트(Critical Event)**를 찾아내고, 의사결정을 지원하는 인사이트를 도출하는 데 집중합니다.  
+데이터 속에 숨어 있는 패턴을 발견해 **제품과 비즈니스가 함께 성장**할 수 있는 연결고리를 만들고, 그 여정에서 저도 함께 성장하는 것이 목표입니다.
+</div>
 
 📌 전체 포트폴리오 모음: [**위이태인 포트폴리오 보기**](https://github.com/TildaWi/Portfolio_wileetaein)
 
@@ -59,8 +50,6 @@
     </tr>
   </tbody>
 </table>
-
-<br/>
 
 ---
 
