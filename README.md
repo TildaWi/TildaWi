@@ -22,7 +22,7 @@
 
 | 프로젝트명 | 분석 카테고리 | 설명 | 링크 |
 |:----------:|:-------------:|:-----:|:----:|
-| 구독형 강의 서비스<br/>플랫폼 리텐션 분석 | 프로덕트<br/>데이터 분석 | 설명 삽입 필요 | [보기]() |
+| 구독형 강의 서비스<br/>플랫폼 리텐션 분석 | 프로덕트<br/>데이터 분석 | 설명 삽입 필요 | [보기](https://github.com/TildaWi/subscription-retention-analysis) |
 | 공공데이터 기반 실시간 대기오염<br/>모니터링 자동화 | 데이터 활용<br/>자동화 | 설명 삽입 필요 | [보기](https://github.com/TildaWi/air-quality-data-pipeline-project) |
 | 채용 플랫폼 로그 분석 기반<br/>지원 미완료 유저 이탈 개선을 위한<br/>UI/UX 제안 | 프로덕트<br/>데이터 분석 | **전환 퍼널 분석** 및 **이탈 구간 UX 개선안** <br/> **A/B 테스트 제안** | [보기](https://github.com/TildaWi/job_funnel_dropoff_project) |
 
@@ -30,7 +30,7 @@
 
 ## ✍️ Studying & Practice
 
-### 분석 프로젝트 및 대시보드
+<!--### 분석 프로젝트 및 대시보드
 
 - **1) [비즈니스 데이터 분석](https://github.com/TildaWi/business-data-analysis)**: 운영 효율화와 프로세스 개선 중심의 데이터 인사이트 도출 분석  
 
@@ -42,7 +42,7 @@
 
 - **5) [데이터 시각화](https://github.com/TildaWi/data-visualization)**: Tableau / Redash / Power BI / Looker Studio 대시보드
 
-<br/>
+<br/>-->
 
 ### 직무 기반 학습 & 연습
 
